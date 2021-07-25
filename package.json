@@ -1,0 +1,8 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API",
+  "main": "index.js",
+  "author": "lama",
+  "license": "MIT"
+}
